@@ -24,7 +24,7 @@
     #include "gki_target.h"
 #else
     /* For non-nfc_standalone, include Bluetooth definitions */
-    include "bt_target.h"
+    #include "bt_target.h"
 #endif
 
 
