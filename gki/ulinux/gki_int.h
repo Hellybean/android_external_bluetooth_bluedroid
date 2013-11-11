@@ -18,7 +18,7 @@
 #ifndef GKI_INT_H
 #define GKI_INT_H
 
-#include "gki_common.h"
+include "gki_common.h"
 #include <pthread.h>
 #include <sys/prctl.h>
 

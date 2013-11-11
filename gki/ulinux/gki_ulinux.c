@@ -32,7 +32,7 @@
 
 #include <pthread.h>  /* must be 1st header defined  */
 #include <time.h>
-#include "gki_int.h"
+include "gki_int.h"
 #include "bt_utils.h"
 
 #define LOG_TAG "GKI_LINUX"

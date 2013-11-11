@@ -18,7 +18,7 @@
 #ifndef GKI_COMMON_H
 #define GKI_COMMON_H
 
-#include "gki.h"
+include "gki.h"
 #include "dyn_mem.h"
 
 /* Task States: (For OSRdyTbl) */
